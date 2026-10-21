@@ -1,0 +1,6 @@
+{
+  "name": "Trạng Nguyên AI 3.0 – Lớp Học Kiến Tạo",
+  "description": "Nền tảng giáo dục thông minh Trạng Nguyên AI 3.0 dành cho lớp 3 - Giáo viên: Bế Hoa Thuỷ Tiên (Trường Tiểu học Nguyễn Trãi - Ninh Bình): quản lý 40 học sinh theo 4 biệt đội thi đua, SGK NXBGD taphuan.nxbgd.vn, 8 trò chơi học tập trí tuệ và Trợ lý Bạn Học AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
